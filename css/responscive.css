@@ -1,0 +1,183 @@
+@media(max-width: 1120px){
+
+	.EVERYDAY-section-1{
+		padding: 422px 0 30px;
+		height: auto;
+	}
+	.EVERYDAY-section-1 img{
+
+	}
+	.EVERYDAY-2 ul{
+	   display: none;
+	}
+
+	.EVERYDAY-3{
+       left: 340px;
+       padding:0 10px 10px;
+
+    }
+    .EVERYDAY-3 h1{
+    	font-size: 30px
+
+    }
+    .EVERYDAY-3 h2{
+    	font-size: 30px
+    }
+    .EVERYDAY{
+        background: transparent;
+    }
+    .EVERYDAY-1{
+    	text-align: center;
+    }
+
+
+
+    
+
+  
+
+
+
+/*end*/
+
+}
+
+@media(max-width: 991px){
+    .EVERYDAY-3{
+       left: 300px;
+    }
+    .ENJOY-A{
+        width: 100%;
+    }
+    .delicious-food-1{
+        width: 100%;
+        padding: 20px 30px 40px;
+    }
+    .delicious-1{
+        width: 100%;
+        padding: 60px 30px 40px;
+    }
+
+    .delicious-img-1 img{
+        margin: 10px 0;
+    }
+    .HISTORY{
+        height: 350px;
+    }
+    .HISTORY-2 i.fa-play-circle{
+        padding-top: 50px;
+    }
+
+    .HISTORY-1{
+        width: 100%;
+    }
+
+    .Breakfast{
+        height: 500px;
+        padding: 20px 20px 20px;
+        
+    }
+    .Breakfast h1 h2 h3{
+        font-size: 20px;
+    }
+    .Breakfast p{
+        font-size: 15px;
+    }
+    .Breakfast-1{
+        padding-left: 30px;
+    }
+
+    .Breakfast-5 img{
+        width: 80px;
+    }
+
+    .Breakfast-2{
+    display: block;
+    
+    }
+
+    .Lunch-Dinner-2{
+        width: 100%;
+        padding: 30px 10px 20px;
+    }
+
+    .CONTACT-US-2{
+        padding: 40px 20px;
+    }
+
+    .CONTACT-US-3{
+        padding: 30px 20px;
+    }
+
+
+
+/*end */
+}
+
+@media(max-width: 871px){
+    .EVERYDAY-3{
+       left: 200px;
+    }
+
+
+/*end */
+}
+@media(max-width: 684px){
+
+    .EVERYDAY{
+        left: 40px;
+    }
+    .EVERYDAY-3{
+       left: 160px;
+    }
+
+
+/*end */
+}
+@media(max-width: 662px){
+    .EVERYDAY-3{
+       left: 140px;
+    }
+
+
+/*end */
+}
+
+@media(max-width: 542px){
+    .EVERYDAY-3{
+       left: 100px;
+    }
+
+
+/*end */
+}
+
+@media(max-width: 424px){
+    .EVERYDAY-3{
+       left: 70px;
+    }
+
+
+/*end */
+}
+
+@media(max-width: 380px){
+    .EVERYDAY-3{
+       left: 40px;
+    }
+
+
+/*end */
+}
+
+@media(max-width: 320px){
+    .EVERYDAY{
+        left: 40px;
+    }
+    .EVERYDAY-3{
+       left: 15px;
+    }
+
+
+/*end */
+}

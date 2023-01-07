@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400;1,600&display=swap');
+
+body{
+	font-family: 'Playfair Display', serif;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+
+
+
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                   EVERYDAY-section -1 
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+.EVERYDAY-section-1{
+	background: url(img/1.png);
+	background-position: center;
+	background-size: cover;
+	padding: 350px ;
+	display: block;
+
+}
+
+.EVERYDAY{
+	width: 80%;
+	height: 110px;
+	background: transparent;
+	text-align: center;
+	position: absolute;
+	top: 20px;
+	left: 90px;
+	opacity: 0.7;
+	color: #fff;
+}
+.EVERYDAY-2{
+	text-align: center;
+}
+.EVERYDAY-2 ul{
+   display: flex;
+   list-style: none;
+   padding-left: 42%;
+}
+.EVERYDAY-2 ul li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	font-weight:400;
+
+}
+.EVERYDAY-3{
+	padding:10px 10px 10px;
+	transform: rotate(-30deg);
+	position: absolute;
+	left: 390px;
+}
+
+.EVERYDAY-3 h1{
+    color: #fff;
+    padding-top: 150px;
+    font-weight: 600;
+    font-size: 60px;
+}
+.EVERYDAY-3 h2{
+	font-size: 60px;
+}
+.EVERYDAY-4 p{
+   padding-top: 440px;
+   font-weight: 400;
+   font-size: 25px;
+}
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                   ENJOY-section -2 
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+.ENJOY-A{
+	width: 60%;
+	margin: auto;
+	padding: 100px 0 20px;
+}
+.ENJOY-A h2,h3{
+	text-align: center;
+
+}
+.ENJOY-A h3{
+	text-align: center;
+	padding-bottom: 20px;
+
+}
+.ENJOY-A p{
+	text-align: center;
+}
+
+.ENJOY-B{
+	margin: 20px auto 20px;
+	text-align: center;
+}
+.ENJOY-B button{
+	background: #dfa32f;
+	border: none;
+	width: 150px;
+	height: 40px;
+}
+
+.ENJOY-1{
+	width: 70%;
+	margin: auto;
+}
+
+.ENJOY-1 img{
+    width: 100%;
+}
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                   HISTORY-section -3
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+.HISTORY{
+	background: url(img/3.png);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 650px;
+	color: #fff;
+	text-align: center;
+	padding-top: 30px;
+
+}
+
+.HISTORY-1{
+	width: 60%;
+	margin: auto;
+}
+.HISTORY-2 i.fa-play-circle{
+	display: block;
+	font-size: 40px;
+	padding-top: 150px;
+	color: #fff;
+}
+
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                  delicious-food-section -4
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+.delicious-food-A{
+	padding: 100px 0 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.delicious-food-1{
+	width: 30%;
+}
+
+.delicious-food-2{
+	padding-top: 40px;
+}
+.delicious-food-2 button{
+	display: block;
+	width: 150px;
+	height: 43px;
+	border: none;
+	background: #dfa32f;
+	
+}
+
+.delicious-food-3{
+    background: url(img/4.png);
+}
+.delicious-food-4{
+	text-align: center;
+}
+.delicious-food-4 img{
+	width: 100%;
+
+}
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                  delicious-section -5
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+
+
+
+.delicious-A{
+   width: 100%;
+   background:#2d3436;
+}
+
+.delicious-1{
+	
+	color: #fff;
+	padding: 100px 50px 40px;
+
+}
+.delicious-3{
+	
+
+}
+
+.delicious-4 img{
+	width: 100%;
+}
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                  delicious-img-section -6
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+.delicious-img-1{
+	width: 95%;
+	margin: auto;
+	padding: 70px 0 50px;
+}
+.delicious-img-1 img{
+	width:100%;
+}
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                  delicious-img-section -7
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+.Breakfast{
+	background: url(img/10.png);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 700px;
+	color: #fff;
+	text-align: left;
+	padding: 70px 50px 20px;
+}
+.Breakfast-1{
+	display: flex;
+}
+
+.Breakfast-1{
+	padding: 70px 0 20px;
+}
+.Breakfast-2 h1,h2,h3{
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 400;
+}
+
+.Breakfast-2{
+	transform: rotate(-30deg);
+}
+.Breakfast-3{
+	color: #dfa32f;
+	padding: 20px 0 10px;
+}
+
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                  Lunch-Dinner-section -8
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+
+
+.Lunch-Dinner-1{
+	margin: auto;
+	width: 95%;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: space-around;
+	padding: 70px 0 20px;
+}
+
+.Lunch-Dinner-2{
+	width: 20%;
+}
+
+/*-=-=-=--=-=-=--=-=-=-=-=----=-===-=-----=-===-=-=-----=-===-
+                  CONTACT-section -9
+-=-=-=-=-==--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=--=--=-=-==-=*/
+
+.CONTACT{
+	background:url(img/15.png);
+	background-size: cover;
+	background-position: center;
+	padding: 100px 0 20px;
+	color: #fff;
+}
+
+.US{
+	color: #fff;
+}
+
+.CONTACT-US-2 input{
+	border: none;
+	border-bottom: 2px solid #fff;
+	background:transparent;
+
+}
+
+.CONTACT-US-2 textarea{
+	border: none;
+	border-bottom: 2px solid #fff;
+	background:transparent;
+}
+.CONTACT-US-2 button{
+	width: 90px;
+	height: 33px;
+	border: none;
+	background:#dfa32f;
+	margin-top: 20px;
+
+}
+.CONTACT-US-3 ul{
+	list-style: none;
+}
+.CONTACT-US-3 ul li a{
+	display: block;
+	font-size: 25px;
+	padding: 20px 0;
+}
+.CONTACT-US-3 ul li a{
+	color: #fff;
+}
